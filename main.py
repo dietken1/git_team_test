@@ -1,5 +1,5 @@
-# main.py
-import git_team_test.cart as cart
+import like
+import cart
 
 def main():
-	return cart.cart()
+	return like.like()+cart.cart()
