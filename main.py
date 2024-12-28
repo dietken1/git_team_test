@@ -1,6 +1,7 @@
+import like
+import cart
 import hate
 
-# main.py
 def main():
-	return hate.hate()
+	return like.like()+cart.cart()+hate.hate()
 
